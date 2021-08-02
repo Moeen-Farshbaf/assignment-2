@@ -28,14 +28,4 @@ print (str(HH)+':'+str(MM)+':'+str(SS))
 
 
 
-#HHtup = math.modf (HHraw)
 
-#HH = int(HHtup[1])
-
-#MMraw = HHtup[0]*60
-
-
-#SSraw = HHtup[0] % 60
-
-
-#print (SSraw)
