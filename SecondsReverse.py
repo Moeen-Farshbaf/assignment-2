@@ -1,4 +1,4 @@
-import math
+
 prompt = 'Give me a total amount of seconds and I will give t back in HH:MM:SS format'
 
 prompt += '\nEnter the number here:'
